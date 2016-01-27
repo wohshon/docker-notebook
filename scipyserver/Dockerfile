@@ -1,4 +1,4 @@
-FROM wohshon/scipystack
+FROM openshift/scipystack
 
 MAINTAINER IPython Project <ipython-dev@scipy.org>
 
