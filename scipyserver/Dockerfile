@@ -1,4 +1,4 @@
-FROM docker.io/ipython/scipystack
+FROM wohshon/scipystack
 
 MAINTAINER IPython Project <ipython-dev@scipy.org>
 
